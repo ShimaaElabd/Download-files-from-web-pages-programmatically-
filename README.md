@@ -1,4 +1,4 @@
-# Download-files-from-web-pages-programmatically-
+# Download files from web-pages programmatically
 
 ## HTTP (Hypertext Transfer Protocol)
 HTTP, the Hypertext Transfer Protocol, is the language that web browsers (like Chrome or Safari) and web servers (basically computers where the contents of a website are stored) speak to each other. Every time you open a web page, or download a file, or watch a video, it's HTTP that makes it possible.
