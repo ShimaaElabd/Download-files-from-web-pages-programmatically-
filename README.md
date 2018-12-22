@@ -13,4 +13,4 @@ HTTP is a request/response protocol:
 In the Jupyter Notebook, I have programmatically download all of the Roger Ebert review text files to a folder called ebert_reviews using the Requests library. 
 
 For more information:
-I encourage you to check out the following documentation: http://docs.python-requests.org/en/master/
+Check out the following documentation: http://docs.python-requests.org/en/master/
